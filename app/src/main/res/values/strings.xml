@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ProjectDoc</string>
+    <string name="welcome">Welcome!</string>
+    <string name="book_your_appointment_with_us_today">BOOK YOUR APPOINTMENT WITH US TODAY</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_user">New User?</string>
+    <string name="log_in">Log In</string>
+    <string name="got_an_account">Got an Account ?</string>
 </resources>

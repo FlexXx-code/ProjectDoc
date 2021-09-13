@@ -6,4 +6,13 @@
     <string name="new_user">New User?</string>
     <string name="log_in">Log In</string>
     <string name="got_an_account">Got an Account ?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="click_here">CLICK HERE</string>
+    <string name="register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name_and_surname">Name And Surname</string>
 </resources>
